@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidluozhang&theme=dracula&hide=Jupyter Notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidluozhang&theme=dracula&hide=Jupyter%20Notebook)
 
